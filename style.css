@@ -1,0 +1,31 @@
+.backcolor{
+    background-color: burlywood;
+    border-radius: 25px;
+}
+.jhapsha{
+    align-items: center;
+    height: 50%;
+}
+.pisonerrong{
+    background-color: darkslategray;
+    border-radius: 15px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.price{
+    color: crimson;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, pink 0%,yellow 100%);
+    color:darkmagenta;
+    border: none;
+    border-radius: 15px;
+    padding: 9px 25px;
+    cursor: pointer;
+    
+}
+.row{
+    text-align: center;
+    align-items: center;
+}
