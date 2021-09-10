@@ -29,3 +29,44 @@
     text-align: center;
     align-items: center;
 }
+.seemore{
+     background-image:linear-gradient(brown 30%,gray 70%);
+     border-radius: 10px;
+     padding: 9px 20px;
+     color: black;
+     border: none;
+}
+.card{
+    box-shadow: 5px 10px 5px burlywood;
+    border: none;
+    
+  
+}
+#no{
+    border: none;
+}
+#not{
+    box-shadow: 7px 10px 6px rosybrown;
+    border: none;
+}
+.gaps{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.cat1{
+   
+    border-radius: 10px 15px;
+    box-shadow:5px 10px 5px wheat ;
+}
+.cat2{
+    border-radius: 10px 15px;
+    box-shadow:5px 10px 5px wheat ;  
+}
+.contact{
+    height: 300px;
+    background-color: wheat;
+    border-radius: 20px 25px ;
+}
+footer{
+    text-align: center;
+}
